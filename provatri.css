@@ -1,0 +1,27 @@
+h1{
+
+    color: rgb(58, 57, 57);
+}
+
+header{
+
+    font-size: 50px;
+    color: rgb(63, 63, 63);
+}
+
+#gato{
+
+    padding:100px ;
+}
+
+.curto{
+
+    text-align: center;
+    color: black;
+}
+
+body{
+
+background-color: rgb(122, 120, 120);
+
+}
